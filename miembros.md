@@ -4,7 +4,7 @@
 2. The Joker
 3. Raven
 4. Black Manta
-5. Sinestro
+
 6. Poison Ivy
 7. Chronos
 8. Catwoman
